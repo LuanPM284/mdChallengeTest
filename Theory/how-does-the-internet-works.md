@@ -27,3 +27,6 @@ The information is sent by packets
 
 Routers and IP addresses allow to communicate with the appropriate devices
 Routers will make sure the information is sent to the right device
+
+
+*** This files has been reviewed by Karl ***
